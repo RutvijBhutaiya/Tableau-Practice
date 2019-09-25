@@ -2,7 +2,7 @@
 
 <p align="center"><img width=65% src=https://user-images.githubusercontent.com/44467789/65605822-622b4680-dfc7-11e9-87c3-76c7502824c9.png>
 
-For practice data set we have Trade Stores [dataset](https://github.com/RutvijBhutaiya/Tableau-Practice/blob/master/Trader%20Stores.xlsx) for tableau practice. Dataset carries 9995 observation and 21 diffrent variables. 
+For practice data set we have Trade Stores [dataset](https://github.com/RutvijBhutaiya/Tableau-Practice/blob/master/Trader%20Stores.xlsx) for tableau practice. Dataset is collection of 9995 observations and 21 diffrent variables. 
 
 ### Tableau Sheets
 
