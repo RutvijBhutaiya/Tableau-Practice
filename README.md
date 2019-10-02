@@ -9,6 +9,7 @@ For practice data set we have Trade Stores [dataset](https://github.com/RutvijBh
 - [Tables](#tables)
 - [Size Graph](#size-graph)
 - [Color Bar Chart](#color-bar-chart)
+- [Color Bar Chart 2](#color-bar-chart-2)
 
 <br>
 
@@ -30,7 +31,15 @@ Same parameters, which are shown in table format are shown in Bar Chart form. He
 
 ### Color Bar Chart
 
-<p align="center"><img width=80% src=https://user-images.githubusercontent.com/44467789/65691258-2d35f700-e08e-11e9-8a69-84d900323506.png>
+<p align="center"><img width=88% src=https://user-images.githubusercontent.com/44467789/65691258-2d35f700-e08e-11e9-8a69-84d900323506.png>
   
 Simple Bar Chart for Sub-Category wise distribution of Sales. And color wise distribution makes it easy to compare the Sub-Category profits, like in Tables item, Sales is high but Profit is negative
+
+<br>
+
+### Color Bar Chart 2
+
+<p align="center"><img width=88% src=https://user-images.githubusercontent.com/44467789/66031686-8637dc00-e521-11e9-8ff2-ee6ee2ecbb14.png>
+  
+Sum of profits showed in Segment wise break up, along with four different region. All the four regions are highlighted with different color. With this Bar chart we can easily identifies that West region has strong support in terms of Profits from Corporate and Consumers Segment. And good question is Why Home Office is lacking behind in Western Region Profits.
 
